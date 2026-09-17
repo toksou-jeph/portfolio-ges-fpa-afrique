@@ -1,4 +1,4 @@
-<img width="959" height="480" alt="Capture d&#39;écran 2026-09-17 113252" src="https://github.com/user-attachments/assets/6d4709b6-680f-4856-9194-76180d427f86" />I- CREATION D'UNE ENTREPRISE
+
 
 
 Nous sommes sur le modèle Sage Saari I7
