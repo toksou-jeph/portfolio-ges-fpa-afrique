@@ -2,8 +2,8 @@
 
 
 Nous sommes sur le modèle Sage Saari I7
-pour la création de l'entité, Celle ci nous demande dès le début de paramétrage du logiciel l'identification de notre société, dans notre cas la société à déjà été créer pour l'aperçue:
-Fichier-à propos de la société-identification de la société
+le paramétrage se la société ce fait dès le début, dans notre cas la société à déjà été créer pour l'aperçue:
+ Chemin d'accès: Fichier - à propos de la société - identification de la société
 Identification
 <img width="955" height="498" alt="Capture d&#39;écran 2026-09-17 092345" src="https://github.com/user-attachments/assets/fe453565-90be-401c-8830-aa218edb9be4" />
 Monnaie et Format
@@ -19,7 +19,7 @@ IFRS
 II-CREATION DES PLAN COMPTABLES
 
 Avant la création des plan comptables, paramétrer la nature des comptes, parce que chaque Etat à ses normes financières et comptables , notre zone CEMAC utile le SYSCHODA pour les entreprises comme plan comptable, donc nous allons respecter ses normes 
-direction fichier - paramètre de la société - paramètres des comptes généraux - Nature des comptes 
+Chemin d'accès: fichier - paramètre de la société - paramètres des comptes généraux - Nature des comptes 
 <img width="956" height="493" alt="Capture d&#39;écran 2026-09-17 095656" src="https://github.com/user-attachments/assets/aab42524-bd8c-4710-a317-b162efe64f50" />
 <img width="959" height="490" alt="Capture d&#39;écran 2026-09-17 095712" src="https://github.com/user-attachments/assets/ae013acc-292e-4367-b403-a9d979e857df" />
 <img width="959" height="472" alt="Capture d&#39;écran 2026-09-17 095728" src="https://github.com/user-attachments/assets/c17adfcd-8ce1-4b73-923c-2d0af17ea84e" />
@@ -78,6 +78,42 @@ cliquer sur ouvrir
 ensuite selectionner son format .txt du plan comptable
 revenez sur structure - plan comptable et voilà...
 <img width="958" height="492" alt="Capture d&#39;écran 2026-09-17 130300" src="https://github.com/user-attachments/assets/1171963b-6705-4622-a042-e8e717e804d1" />
+
+
+III- CREATION PLAN TIERS
+
+
+Le plan des tiers ici comportera nos fournisseurs, clients, salariés et autres.
+Chemin d'accès: Structure - plan tiers
+choisissez le tier à créer
+
+Créons le clients Union Européenne, 
+indiqué le numéro du compte tiers après le libellé compte tiers: 4111UE (4111 qui est le numéro de compte client, et UE qui est une référence pour Union Européenne)
+Union Européenne est un client alors le libellé type doit indiquer client
+Le compte collectif est le compte 411100 (parce que c'est ce compte client, qui regroupera tout les tiers de type clients)
+Enfin un clique sur OK! et notre premier Client fut!
+
+<img width="953" height="478" alt="Capture d&#39;écran 2026-09-18 080407" src="https://github.com/user-attachments/assets/3e34e356-7e0e-4538-aba2-4b8babd4cba0" />
+
+Je vous propose que de mettre l'initiale du nom de votre tier après le numéro de compte
+exemple: Union Européenne = 4111UE, Quincaillerie Mosquée = 4011QM
+La création du fournisseurs suit la même logique
+
+<img width="959" height="477" alt="Capture d&#39;écran 2026-09-18 081105" src="https://github.com/user-attachments/assets/df24fb44-c7e5-447f-a0ec-c69de319ca75" />
+
+ Et le fournisseur fût! 
+ Pour ceux qui veulent indiquer plus d'information en ce qui concerne leurs tiers comme le moyen de paiement et autres.
+ toujours la fenêtre du tiers de l'onglet identification vous pouvez vous déplacez de celui à l'onglet banque, solvabilité ou autres
+
+ <img width="959" height="486" alt="Capture d&#39;écran 2026-09-18 082353" src="https://github.com/user-attachments/assets/1cbf30c3-18c9-46b0-8d44-f089871d2aa5" />
+ les tiers salariés suivent la même logique.
+
+ 
+ 
+
+ 
+
+
 
 
 
