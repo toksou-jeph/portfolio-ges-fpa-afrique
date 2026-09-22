@@ -108,6 +108,25 @@ La création du fournisseurs suit la même logique
  <img width="959" height="486" alt="Capture d&#39;écran 2026-09-18 082353" src="https://github.com/user-attachments/assets/1cbf30c3-18c9-46b0-8d44-f089871d2aa5" />
  les tiers salariés suivent la même logique.
 
+
+ IV- CREATION PLAN ANALYTIQUE
+
+
+Le Plan analytique ou le plan de comptabilité de gestion est la structure qui permet de reclasser les charges et produits par destination (services, projets, activités afin de mesurer la rentabilité détaillée de chaque secteur.
+
+chemin d'accès: structure - Plan analytique - Nouveau
+
+
+création du secteur A:
+<img width="941" height="470" alt="Capture d&#39;écran 2026-09-22 131220" src="https://github.com/user-attachments/assets/67b22ea9-a698-4ff4-8a5a-232ce273e08e" />
+
+
+secteur B:
+
+<img width="956" height="461" alt="Capture d&#39;écran 2026-09-22 131436" src="https://github.com/user-attachments/assets/6d389d7c-358d-497f-b5ad-36d6b2f97e5c" />
+
+
+
  
  
 
